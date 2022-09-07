@@ -1,1 +1,1 @@
-Sujet 1  Premier programme Java "HelloWorld" avec Intellij en Sprint boot
+Sujet 1  Premier programme Java "HelloWorld" avec Intellij en Spring boot
